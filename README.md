@@ -18,6 +18,7 @@ streamlit run ./streamlit/main.py
 ```
 
 ## Open Dashboard in Streamlit
+![image](https://github.com/user-attachments/assets/f61f9bac-716a-4233-ace4-cdd44306a98b)
 
 
 
