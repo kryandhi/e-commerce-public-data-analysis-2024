@@ -51,15 +51,15 @@ streamlit run main.pystreamlit run ./streamlit/main.py
 6. Clustering
 
 ## Conclusion
-1. Berapa jumlah pesanan yang disetujui setiap bulan dalam rentang waktu tertentu, dan bagaimana perubahannya dari bulan ke bulan?
+**1. Berapa jumlah pesanan yang disetujui setiap bulan dalam rentang waktu tertentu, dan bagaimana perubahannya dari bulan ke bulan?**
 
 - Pembelian pelanggan menunjukkan variasi yang signifikan, dengan fluktuasi nilai yang mencerminkan kenaikan dan penurunan setiap bulannya. Analisis data mengungkapkan bahwa bulan November mencatat puncak maksimum pembelian, sedangkan bulan September mengalami puncak minimum.
 
-2. Produk apa yang memiliki penjualan tertinggi nomor 1 dan terendah nomor 1?
+**2. Produk apa yang memiliki penjualan tertinggi nomor 1 dan terendah nomor 1?**
 - Produk yang paling populer di kalangan pelanggan adalah kategori "bed_bath_table," dengan penjualan mendekati 14.000 unit. Di sisi lain, kategori produk "security and services" mencatatkan penjualan terendah, hanya sebanyak 2 unit.
 
-3. Bagaimana tingkat kepuasan pelanggan pada tahun 2018 berdasarkan data survei dan metrik terkait?
+**3. Bagaimana tingkat kepuasan pelanggan pada tahun 2018 berdasarkan data survei dan metrik terkait?**
 - Tingkat kepuasan pelanggan terhadap layanan yang diberikan sangat tinggi, seperti yang terlihat dalam visualisasi data. Sebagian besar pelanggan memberikan rating 5, sementara rating 4 menduduki posisi kedua terbanyak. Rata-rata nilai review yang diterima pada tahun 2018 adalah 4,05.
 
-4. Dimana letak geografis yang memiliki customer terbanyak?
+**4. Dimana letak geografis yang memiliki customer terbanyak?**
 - Berdasarkan grafik yang telah dibuat, mayoritas pelanggan terkonsentrasi di wilayah tenggara dan selatan. Selain itu, terdapat jumlah pelanggan yang lebih tinggi di kota-kota besar yang berperan sebagai ibu kota, seperti São Paulo, Rio de Janeiro, dan Porto Alegre.
