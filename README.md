@@ -2,13 +2,12 @@
 Repository ini merupakan proyek akhir dari kelas Dicoding "Belajar Analisis Data dengan Python". Proyek ini mencoba menganalisis data E-Commerce Public Dataset yang disediakan oleh Dicoding atau melalui sumber Kaggle dengan judul Brazilian E-Commerce Public Dataset oleh Olist. Tujuan dari analisis ini adalah untuk mengeksplorasi dan mengenal dataset tersebut, serta menemukan beberapa wawasan menarik dari dataset guna menjawab pertanyaan-pertanyaan bisnis.
 
 ## Setup environment
-```
+
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
-git clone https://github.com/kryandhi/e-commerce-public-data-analysis-2024.git
+``` git clone https://github.com/kryandhi/e-commerce-public-data-analysis-2024.git ```
 2. Instalasi Library
-pip install streamlit numpy seaborn pandas matplotlib zipfile unidecode
-3. pip install -r requirements.txt
-```
+``` pip install streamlit numpy seaborn pandas matplotlib zipfile unidecode ```
+3. ``` pip install -r requirements.txt ```
 
 ## Run steamlit app
 ```
