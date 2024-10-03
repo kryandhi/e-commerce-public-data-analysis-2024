@@ -3,7 +3,13 @@ Repository ini merupakan proyek akhir dari kelas Dicoding "Belajar Analisis Data
 
 ![Dashboard Streamlit - Komang Ryan](https://github.com/user-attachments/assets/07890ec2-d787-4b76-a51d-6dcad273569a)
 
-
+# Main Project Structure
+- ``` Dashboard with Streamlit ``` :  Folder yang menyimpan seluruh kode dan file yang diperlukan untuk membuat dashboard analisis data menggunakan Streamlit.
+- ``` E-Commerce Public Dataset ``` :  Folder ini berisi semua dataset dalam format .csv yang digunakan.
+- ``` Dashboard Streamlit - Komang Ryan.png ``` : File ini adalah gambar yang menunjukkan tampilan dasbor yang telah dibuat menggunakan Streamlit.
+- ``` Proyek_akhir_analisis_data_Komang_Ryandhi.ipynb ``` : Notebook yang berisi seluruh proses analisis data mulai dari mendefinisikan pertanyaan hingga membuat kesimpulan dari hasil analisis.
+- ``` requirements.txt ``` : File ini berisi daftar semua dependensi yang diperlukan untuk menjalankan proyek, beserta versi spesifik dari setiap paket yang digunakan.
+  
 ## Setup environment
 
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
