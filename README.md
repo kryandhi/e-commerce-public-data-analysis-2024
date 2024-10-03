@@ -1,6 +1,9 @@
 # E-Commerce Public Data Analysis Dashboard 
 Repository ini merupakan proyek akhir dari kelas Dicoding "Belajar Analisis Data dengan Python". Proyek ini mencoba menganalisis data E-Commerce Public Dataset yang disediakan oleh Dicoding atau melalui sumber Kaggle dengan judul Brazilian E-Commerce Public Dataset oleh Olist. Tujuan dari analisis ini adalah untuk mengeksplorasi dan mengenal dataset tersebut, serta menemukan beberapa wawasan menarik dari dataset guna menjawab pertanyaan-pertanyaan bisnis.
 
+![Dashboard Streamlit - Komang Ryan](https://github.com/user-attachments/assets/07890ec2-d787-4b76-a51d-6dcad273569a)
+
+
 ## Setup environment
 
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
