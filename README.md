@@ -4,10 +4,10 @@ Repository ini merupakan proyek akhir dari kelas Dicoding "Belajar Analisis Data
 ## Setup environment
 
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
-``` git clone https://github.com/kryandhi/e-commerce-public-data-analysis-2024.git ```
+- ``` git clone https://github.com/kryandhi/e-commerce-public-data-analysis-2024.git ```
 2. Instalasi Library
-``` pip install streamlit numpy seaborn pandas matplotlib zipfile unidecode ```
-3. ``` pip install -r requirements.txt ```
+- ``` pip install streamlit numpy seaborn pandas matplotlib zipfile unidecode ```
+3. - ``` pip install -r requirements.txt ```
 
 ## Run steamlit app
 ```
